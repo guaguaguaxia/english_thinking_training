@@ -100,13 +100,20 @@ a piece of cloth or paper used for drying someone or something that is wet
 ### spoon
 an object consisting of a round, hollow part and a handle, used for mixing, serving, and eating food
 
+### professor
+a teacher of the highest rank in a department of a British university, or a teacher of high rank in an American university or college
 
+### coach
+someone whose job is to teach people to improve at a sport, skill, or school subject
 
+### judge
+a person who is in charge of a trial in a court and decides how a person who is guilty of a crime should be punished, or who makes decisions on legal matters
 
+### staff
+the group of people who work for an organization
 
-
-
-
+### society
+a large group of people who live together in an organized way, making decisions about how to do things and sharing the work that needs to be done. All the people in a country, or in several similar countries, can be referred to as a society
 
 
 
